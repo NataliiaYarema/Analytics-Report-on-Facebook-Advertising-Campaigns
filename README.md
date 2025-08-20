@@ -6,10 +6,6 @@ This Jupyter Notebook presents a comprehensive analysis of **Facebook advertisin
 
 ![Rolling_ROMI](rolling_romi.png)
 
-![ROMI](romi.png)
-
-![Fb-Ad](Facebook-Ad-Camp.png)
-
 ## 🧰 Tools Used
 
 - Python (Jupyter Notebook)
