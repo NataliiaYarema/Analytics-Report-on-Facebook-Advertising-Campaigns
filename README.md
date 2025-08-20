@@ -4,6 +4,8 @@ This Jupyter Notebook presents a comprehensive analysis of **Facebook advertisin
 
 ---
 
+![ROMI](romi.png)
+
 ![Fb-Ad](Facebook-Ad-Camp.png)
 
 ## 🧰 Tools Used
